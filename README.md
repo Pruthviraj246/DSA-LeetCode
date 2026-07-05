@@ -6,6 +6,7 @@ My LeetCode solutions in Java.
 ## Array
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -28,6 +29,7 @@ My LeetCode solutions in Java.
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -37,4 +39,12 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

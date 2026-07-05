@@ -3,13 +3,9 @@ class Solution {
 
         int[] ans = new int[2 * n];
 
-        int i = 0;
-        int j = n;
-        int k = 0;
-
-        while (i < n) {
-            ans[k++] = nums[i++];
-            ans[k++] = nums[j++];
+        for (int i = 0; i < n; i++) {
+            ans[2 * i] = nums[i];
+            ans[2 * i + 1] = nums[i + n];
         }
 
         return ans;

@@ -1,24 +1,33 @@
 class Solution {
-
     public long sumAndMultiply(int n) {
-
-        int x = 0;
-        int sum = 0;
-        int place = 1;
-
+        long value = 0;
         while (n > 0) {
-
-            int digit = n % 10;
-
-            if (digit != 0) {
-                x = x + place * digit;
-                sum = sum + digit;
-                place = place * 10;
+            int digits = n % 10;
+            if (digits != 0) {
+                value = value * 10 + digits;
             }
 
             n = n / 10;
+            //till here value=4321
+        }
+        
+        long rev=0;
+        while(value>0){
+            long digits2=value%10;
+            rev=rev*10+digits2;
+            value=value/10;
+            //rev=1234
         }
 
-        return (long) x * sum;
+
+        long x = rev; // x=4321 //original number is stored in value
+
+        long sum = 0;
+        while (x > 0) {
+            long digits3 = x % 10;
+            sum = sum + digits3;
+            x = x / 10;
+        }
+        return rev * sum;
     }
 }

@@ -7,6 +7,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -59,4 +60,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->

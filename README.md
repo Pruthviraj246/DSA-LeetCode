@@ -7,6 +7,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,5 +64,6 @@ My LeetCode solutions in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->

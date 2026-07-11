@@ -45,6 +45,7 @@ My LeetCode solutions in Java.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -69,6 +70,7 @@ My LeetCode solutions in Java.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |

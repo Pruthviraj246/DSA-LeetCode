@@ -11,10 +11,10 @@ public class Solution extends VersionControl {
             if(isBadVersion(mid)==true){
                 ans=mid;
                 end=mid-1;
-            }
-            if(isBadVersion(mid)==false){
+            }else{
                 start=mid+1;
             }
+           
         }
         return ans;
     }

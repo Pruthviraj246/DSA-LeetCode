@@ -5,12 +5,11 @@ class Solution {
         int ans=0;
         while(start<=end){
             int mid=start+(end-start)/2;
-            long sqr=(long) mid*mid;
-
-            if(sqr==x){
+            long square=(long) mid*mid;
+            if(square==x){
                 return mid;
             }
-            if(sqr>x){
+            if(square>x){
                 end=mid-1;
             }else{
                 ans=mid;

@@ -12,6 +12,7 @@ My LeetCode solutions in Java.
 | [0035-search-insert-position](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -64,6 +66,7 @@ My LeetCode solutions in Java.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |

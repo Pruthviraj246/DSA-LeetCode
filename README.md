@@ -78,6 +78,7 @@ My LeetCode solutions in Java.
 ## String
 |  |
 | ------- |
+| [0709-to-lower-case](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1678-goal-parser-interpretation) |

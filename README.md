@@ -13,6 +13,7 @@ My LeetCode solutions in Java.
 | [0162-find-peak-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -51,6 +52,7 @@ My LeetCode solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -58,6 +60,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,6 +74,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -94,6 +98,7 @@ My LeetCode solutions in Java.
 | [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -115,5 +120,6 @@ My LeetCode solutions in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->

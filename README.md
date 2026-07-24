@@ -15,6 +15,7 @@ My LeetCode solutions in Java.
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -57,6 +58,7 @@ My LeetCode solutions in Java.
 | [0001-two-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -82,6 +84,7 @@ My LeetCode solutions in Java.
 | ------- |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -109,6 +112,7 @@ My LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -126,6 +130,7 @@ My LeetCode solutions in Java.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation

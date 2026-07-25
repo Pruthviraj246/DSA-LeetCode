@@ -22,6 +22,7 @@ My LeetCode solutions in Java.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -61,6 +62,7 @@ My LeetCode solutions in Java.
 | [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0888-fair-candy-swap](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -87,6 +89,7 @@ My LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0888-fair-candy-swap](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -121,6 +124,7 @@ My LeetCode solutions in Java.
 | [0704-binary-search](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1539-kth-missing-positive-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |

@@ -103,6 +103,7 @@ My LeetCode solutions in Java.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |

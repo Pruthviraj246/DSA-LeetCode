@@ -171,4 +171,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0338-counting-bits) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

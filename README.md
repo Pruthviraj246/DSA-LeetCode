@@ -175,4 +175,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

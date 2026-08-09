@@ -38,6 +38,7 @@ My LeetCode solutions in Java.
 | [1732-find-the-highest-altitude](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@ My LeetCode solutions in Java.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
 |  |
@@ -181,4 +183,16 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

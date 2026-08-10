@@ -79,6 +79,7 @@ My LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -175,6 +176,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -195,4 +197,12 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

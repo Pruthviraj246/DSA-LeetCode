@@ -180,6 +180,7 @@ My LeetCode solutions in Java.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Newton's Method
 |  |
@@ -200,6 +201,7 @@ My LeetCode solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

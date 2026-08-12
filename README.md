@@ -42,6 +42,7 @@ My LeetCode solutions in Java.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -80,6 +81,7 @@ My LeetCode solutions in Java.
 | [0009-palindrome-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0441-arranging-coins) |
@@ -198,6 +200,7 @@ My LeetCode solutions in Java.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |

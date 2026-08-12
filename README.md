@@ -162,6 +162,7 @@ My LeetCode solutions in Java.
 | [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -193,6 +194,7 @@ My LeetCode solutions in Java.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Newton's Method
 |  |
 | ------- |

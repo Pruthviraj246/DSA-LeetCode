@@ -100,6 +100,7 @@ My LeetCode solutions in Java.
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -156,6 +157,7 @@ My LeetCode solutions in Java.
 | [0125-valid-palindrome](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -180,6 +182,7 @@ My LeetCode solutions in Java.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -194,6 +197,7 @@ My LeetCode solutions in Java.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Newton's Method
 |  |
@@ -227,4 +231,8 @@ My LeetCode solutions in Java.
 | [0141-linked-list-cycle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

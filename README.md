@@ -119,6 +119,7 @@ My LeetCode solutions in Java.
 | [0058-length-of-last-word](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -254,6 +255,7 @@ My LeetCode solutions in Java.
 | [0143-reorder-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -266,4 +268,9 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

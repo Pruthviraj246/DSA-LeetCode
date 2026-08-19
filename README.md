@@ -115,6 +115,7 @@ My LeetCode solutions in Java.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0709-to-lower-case) |
@@ -249,6 +250,7 @@ My LeetCode solutions in Java.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -260,4 +262,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

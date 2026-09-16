@@ -19,6 +19,7 @@ My LeetCode solutions in Java.
 | [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@ My LeetCode solutions in Java.
 | [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -256,6 +258,7 @@ My LeetCode solutions in Java.
 | [0143-reorder-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
@@ -278,5 +281,6 @@ My LeetCode solutions in Java.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

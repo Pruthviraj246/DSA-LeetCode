@@ -13,19 +13,42 @@
  *     }
  * }
  */
+// class Solution {
+//     public List<Integer> inorderTraversal(TreeNode root) {
+//         List<Integer> list=new ArrayList<>();
+//         if(root==null){
+//             return list;
+//         }
+//         List<Integer> left=inorderTraversal(root.left);
+        
+//         List<Integer> right=inorderTraversal(root.right);
+
+//         list.addAll(left);
+//         list.add(root.val);
+//         list.addAll(right);
+//         return list;
+//     }
+// }
+
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list=new ArrayList<>();
-        if(root==null){
-            return list;
+        Stack<TreeNode> st=new Stack<>();
+        TreeNode node=root;
+        while(true){
+            if(node!=null){
+                st.push(node);
+                node=node.left;
+            }else{
+                if(st.isEmpty()){
+                    break;
+                }
+                node=st.pop();
+                list.add(node.val);
+                node=node.right;
+            }
+            
         }
-        List<Integer> left=inorderTraversal(root.left);
-        
-        List<Integer> right=inorderTraversal(root.right);
-
-        list.addAll(left);
-        list.add(root.val);
-        list.addAll(right);
         return list;
     }
 }

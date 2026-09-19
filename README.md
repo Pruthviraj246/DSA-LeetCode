@@ -303,6 +303,7 @@ My LeetCode solutions in Java.
 | [0199-binary-tree-right-side-view](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -317,6 +318,7 @@ My LeetCode solutions in Java.
 | [0199-binary-tree-right-side-view](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +335,7 @@ My LeetCode solutions in Java.
 | [0199-binary-tree-right-side-view](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -342,6 +345,7 @@ My LeetCode solutions in Java.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |

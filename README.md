@@ -191,6 +191,7 @@ My LeetCode solutions in Java.
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -10,6 +10,7 @@ My LeetCode solutions in Java.
 | [0033-search-in-rotated-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -179,6 +180,7 @@ My LeetCode solutions in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
@@ -380,4 +382,8 @@ My LeetCode solutions in Java.
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

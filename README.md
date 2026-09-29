@@ -85,6 +85,7 @@ My LeetCode solutions in Java.
 | [0007-reverse-integer](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0258-add-digits) |
@@ -205,6 +206,7 @@ My LeetCode solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
@@ -251,6 +253,7 @@ My LeetCode solutions in Java.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |

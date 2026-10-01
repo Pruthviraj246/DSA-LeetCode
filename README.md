@@ -11,6 +11,7 @@ My LeetCode solutions in Java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0162-find-peak-element) |
@@ -390,5 +391,6 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ My LeetCode solutions in Java.
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0888-fair-candy-swap) |
 | [0994-rotting-oranges](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -71,6 +72,7 @@ My LeetCode solutions in Java.
 | [0733-flood-fill](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -354,6 +356,7 @@ My LeetCode solutions in Java.
 | [0547-number-of-provinces](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -390,6 +393,7 @@ My LeetCode solutions in Java.
 | [0662-maximum-width-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -420,6 +424,7 @@ My LeetCode solutions in Java.
 | [0130-surrounded-regions](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |

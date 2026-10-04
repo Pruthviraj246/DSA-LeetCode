@@ -356,6 +356,7 @@ My LeetCode solutions in Java.
 | [0547-number-of-provinces](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -392,6 +393,7 @@ My LeetCode solutions in Java.
 | [0547-number-of-provinces](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
@@ -424,9 +426,19 @@ My LeetCode solutions in Java.
 | [0130-surrounded-regions](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

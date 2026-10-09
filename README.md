@@ -98,6 +98,7 @@ My LeetCode solutions in Java.
 | ------- |
 | [0007-reverse-integer](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
@@ -220,6 +221,7 @@ My LeetCode solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0198-house-robber) |
@@ -497,4 +499,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

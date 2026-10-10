@@ -371,6 +371,7 @@ My LeetCode solutions in Java.
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -413,6 +414,7 @@ My LeetCode solutions in Java.
 | [0802-find-eventual-safe-states](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## DP on Trees
 |  |
 | ------- |
@@ -445,6 +447,7 @@ My LeetCode solutions in Java.
 | [0547-number-of-provinces](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -454,6 +457,7 @@ My LeetCode solutions in Java.
 | [0785-is-graph-bipartite](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph Coloring
 |  |

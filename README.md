@@ -38,6 +38,7 @@ My LeetCode solutions in Java.
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0888-fair-candy-swap) |
+| [0931-minimum-falling-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -77,6 +78,7 @@ My LeetCode solutions in Java.
 | [0542-01-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
+| [0931-minimum-falling-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -237,6 +239,7 @@ My LeetCode solutions in Java.
 | [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Linked List
 |  |

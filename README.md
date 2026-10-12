@@ -153,6 +153,7 @@ My LeetCode solutions in Java.
 | [0709-to-lower-case](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1678-goal-parser-interpretation) |
@@ -244,6 +245,7 @@ My LeetCode solutions in Java.
 | [0542-01-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Linked List
@@ -531,4 +533,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

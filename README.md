@@ -30,6 +30,7 @@ My LeetCode solutions in Java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -239,6 +240,7 @@ My LeetCode solutions in Java.
 | [0198-house-robber](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -521,4 +523,12 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

@@ -150,6 +150,7 @@ My LeetCode solutions in Java.
 | [0020-valid-parentheses](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0709-to-lower-case](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -241,6 +242,7 @@ My LeetCode solutions in Java.
 | [0198-house-robber](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |

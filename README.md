@@ -125,6 +125,7 @@ My LeetCode solutions in Java.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
@@ -164,6 +165,7 @@ My LeetCode solutions in Java.
 | [1678-goal-parser-interpretation](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -343,6 +345,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |

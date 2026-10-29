@@ -7,6 +7,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0035-search-insert-position) |
@@ -148,6 +149,7 @@ My LeetCode solutions in Java.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0125-valid-palindrome) |
@@ -542,4 +544,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -159,6 +159,7 @@ My LeetCode solutions in Java.
 | [0344-reverse-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0709-to-lower-case](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -553,4 +554,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

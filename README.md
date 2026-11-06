@@ -22,6 +22,7 @@ My LeetCode solutions in Java.
 | [0136-single-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -116,6 +117,7 @@ My LeetCode solutions in Java.
 | [0062-unique-paths](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0258-add-digits) |
@@ -213,6 +215,7 @@ My LeetCode solutions in Java.
 | [0143-reorder-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |

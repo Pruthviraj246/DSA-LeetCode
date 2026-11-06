@@ -27,6 +27,7 @@ My LeetCode solutions in Java.
 | [0200-number-of-islands](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -218,6 +219,7 @@ My LeetCode solutions in Java.
 | [0189-rotate-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |

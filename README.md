@@ -22,6 +22,7 @@ My LeetCode solutions in Java.
 | [0136-single-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0200-number-of-islands) |
@@ -97,6 +98,7 @@ My LeetCode solutions in Java.
 | [0001-two-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -141,11 +143,13 @@ My LeetCode solutions in Java.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -255,6 +259,7 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -576,4 +581,8 @@ My LeetCode solutions in Java.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0796-rotate-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

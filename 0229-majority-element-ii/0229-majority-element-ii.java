@@ -9,7 +9,7 @@ class Solution {
             }else{
                 map.put(nums[i],1);
             }
-        }//HashMap ready
+        }
 
         for(int k:map.keySet()){
             int freq=map.get(k);

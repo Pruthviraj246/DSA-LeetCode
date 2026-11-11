@@ -66,6 +66,7 @@ My LeetCode solutions in Java.
 | [1920-build-array-from-permutation](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ My LeetCode solutions in Java.
 | [1389-create-target-array-in-the-given-order](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,6 +244,7 @@ My LeetCode solutions in Java.
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |

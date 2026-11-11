@@ -34,9 +34,9 @@ class Solution {
             i += 2;
         }
 
-        if (nums[k] < 0) {
-            ans[j] = nums[k];
-            j += 2;
+        if (nums[k]<0) {
+            ans[j]=nums[k];
+            j+=2;
         }
     }
         return ans;

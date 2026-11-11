@@ -15,6 +15,7 @@ My LeetCode solutions in Java.
 | [0039-combination-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0078-subsets) |
@@ -70,6 +71,7 @@ My LeetCode solutions in Java.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -84,6 +86,7 @@ My LeetCode solutions in Java.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0130-surrounded-regions) |

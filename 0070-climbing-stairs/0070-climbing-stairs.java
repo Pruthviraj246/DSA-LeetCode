@@ -1,7 +1,8 @@
 class Solution {
     public int climbStairs(int n) {
         ArrayList<Integer> list=new ArrayList<>(Collections.nCopies(n+1,-1));
-        return mem(n,list);
+        // return mem(n,list);
+        return tab(n);
     }
 
     static int mem(int n,ArrayList<Integer> list){ 
@@ -10,6 +11,16 @@ class Solution {
         }
         if(list.get(n)!=-1) return list.get(n);
         list.set(n,mem(n-1,list)+mem(n-2,list));
+        return list.get(n);
+    }
+
+    static int tab(int n){
+        ArrayList<Integer> list=new ArrayList<>(Collections.nCopies(n+1,-1));
+        list.set(0,1);
+        list.set(1,1);
+        for(int i=2;i<=n;i++){
+            list.set(i,list.get(i-1)+list.get(i-2));
+        }
         return list.get(n);
     }
 }

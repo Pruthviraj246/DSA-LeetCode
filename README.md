@@ -16,6 +16,7 @@ My LeetCode solutions in Java.
 | [0040-combination-sum-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0078-subsets) |
@@ -277,6 +278,7 @@ My LeetCode solutions in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
@@ -383,6 +385,7 @@ My LeetCode solutions in Java.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack

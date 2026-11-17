@@ -1,31 +1,53 @@
+// class Solution {
+//     public List<List<Integer>> generate(int numRows) {
+//         List<List<Integer>> outer=new ArrayList<>();
+//         func(numRows,outer);
+//         return outer;
+//     }
+
+//     public void func(int numRows,List<List<Integer>> outer){
+//         if(numRows==0) return;
+//         if(outer.isEmpty()){
+//             List<Integer> inner=new ArrayList<>();
+//             inner.add(1);
+//             outer.add(inner);
+//             func(numRows-1, outer);
+//             return;
+//         }
+//         List<Integer> temp=outer.get(outer.size()-1);
+//         List<Integer> inner=new ArrayList<>();
+//         int p1=0;
+//         int p2=1;
+//         inner.add(1);
+//         while(p2<temp.size()){
+//             inner.add(temp.get(p1)+temp.get(p2));
+//             p1++;
+//             p2++;
+//         }
+//         inner.add(1);
+//         outer.add(inner);
+//         func(numRows-1,outer);
+//     }
+// }
+
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> outer=new ArrayList<>();
-        func(numRows,outer);
-        return outer;
+       List<List<Integer>> outer=new ArrayList<>();
+       for(int i=1;i<=numRows;i++){
+        outer.add(func(i));
+       }
+       return outer;
     }
 
-    public void func(int numRows,List<List<Integer>> outer){
-        if(numRows==0) return;
-        if(outer.isEmpty()){
-            List<Integer> inner=new ArrayList<>();
-            inner.add(1);
-            outer.add(inner);
-            func(numRows-1, outer);
-            return;
-        }
-        List<Integer> temp=outer.get(outer.size()-1);
+    public List<Integer> func(int row){
+        int ans=1;
         List<Integer> inner=new ArrayList<>();
-        int p1=0;
-        int p2=1;
         inner.add(1);
-        while(p2<temp.size()){
-            inner.add(temp.get(p1)+temp.get(p2));
-            p1++;
-            p2++;
+        for(int j=1;j<row;j++){
+            ans=ans*(row-j);
+            ans=ans/j;
+            inner.add(ans);
         }
-        inner.add(1);
-        outer.add(inner);
-        func(numRows-1,outer);
+        return inner;
     }
 }

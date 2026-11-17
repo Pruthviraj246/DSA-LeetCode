@@ -19,6 +19,7 @@ My LeetCode solutions in Java.
 | [0063-unique-paths-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0136-single-number) |
@@ -280,6 +281,7 @@ My LeetCode solutions in Java.
 | [0063-unique-paths-ii](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Pruthviraj246/DSA-LeetCode/tree/master/0198-house-robber) |
